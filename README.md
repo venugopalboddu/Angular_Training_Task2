@@ -1,4 +1,4 @@
-# Http
+# Angular Upload image and if image is greater than 5 MB compress to 50KB 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.5.
 
