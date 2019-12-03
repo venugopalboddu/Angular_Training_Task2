@@ -1,0 +1,4 @@
+<input type="file" (change)="compressFile($event)"/> 
+<img *ngIf="imgResultBeforeCompress" [src]="imgResultBeforeCompress" alt="">
+<img *ngIf="imgResultAfterCompress" [src]="imgResultAfterCompress" alt="">
+<p *ngIf="imgResultBeforeCompress">{{message}}</p>
